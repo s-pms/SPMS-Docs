@@ -1,5 +1,5 @@
 <p align="center">
-<img src="//cdn.hamm.cn/svg/spms/logo.svg"/>
+<img src="https://cdn.hamm.cn/svg/spms/logo.svg"/>
 </p>
 
 <p align="center">
